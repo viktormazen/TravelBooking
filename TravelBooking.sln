@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelBooking.API", "Travel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelBooking.Core", "TravelBooking.Core\TravelBooking.Core.csproj", "{98138397-790C-4080-BCDD-F06A3A5210E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelBooking.Infrastructure", "TravelBooking.Infrastructure\TravelBooking.Infrastructure.csproj", "{FCC51756-38EB-4637-8859-DA58A7CC438F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{98138397-790C-4080-BCDD-F06A3A5210E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98138397-790C-4080-BCDD-F06A3A5210E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98138397-790C-4080-BCDD-F06A3A5210E8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FCC51756-38EB-4637-8859-DA58A7CC438F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCC51756-38EB-4637-8859-DA58A7CC438F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCC51756-38EB-4637-8859-DA58A7CC438F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCC51756-38EB-4637-8859-DA58A7CC438F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
